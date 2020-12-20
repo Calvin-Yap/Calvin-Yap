@@ -1,6 +1,6 @@
-#Hi there, I'm Calvin 👋
-###A Software Developer, Studying at Ryerson University 🐏
-** 🎯 Currently Looking for 2021 Summer Internship or Full-Time Positions! 
+# Hi there, I'm Calvin 👋
+### A Software Developer, Studying at Ryerson University 🐏
+** 🎯 Currently Looking for 2021 Summer Internship or Full-Time Positions! **
 - 👨‍💻 <a href="https://calvinyap.com/" target="blank" rel="noopener noreferrer"> Portfolio</a>
 - 📝 <a href="https://calvinyap.com/assets/CalvinYapResume2020.pdf" target="blank" rel="noopener noreferrer">Resume</a>
 - 📫 <a href="mailto:calvin.gh.yap@rgmail.com" class="">Email</a>
