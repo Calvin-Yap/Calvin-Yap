@@ -13,8 +13,7 @@
 
 ### Skills
 Languages:
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
 ### My Stats
 <img align="left" alt="githubstatsCalvin" src="https://github-readme-stats.vercel.app/api?username=calvin-yap&show_icons=true&theme=cobalt&hide_border=true&hide_rank=true"/>
 <img align="left" alt="toplanguagesCalvin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-yap&theme=cobalt&layout=compact&hide_border=true"/>
