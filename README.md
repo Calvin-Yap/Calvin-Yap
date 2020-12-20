@@ -3,12 +3,12 @@
 **🎯 Currently Looking for 2021 Summer Internship or Full-Time Positions!**
 - 👨‍💻 <a href="https://calvinyap.com/" target="blank" rel="noopener noreferrer"> Portfolio</a>
 - 📝 <a href="https://calvinyap.com/assets/CalvinYapResume2020.pdf" target="blank" rel="noopener noreferrer">Resume</a>
-- 📫 <a href="mailto:calvin.gh.yap@rgmail.com" class="">Email</a>
+- 📫 <a href="mailto:calvin.gh.yap@rgmail.com" >Email</a>
 - 💼 <a href="https://www.linkedin.com/in/calvin-yap-b83275193/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
 ### What I'm up to
-- 🌱 I'm currently learning SwiftUi, by participating in <a href="https://www.hackingwithswift.com/100/swiftui " target="_blank" rel="noopener noreferrer">100 Days of Swift</a> 
+- 🌱 I'm currently learning Swift, by participating in <a href="https://www.hackingwithswift.com/100/swiftui " target="_blank" rel="noopener noreferrer">100 Days of Swift</a> 
 - 🎒 Upcoming courses: Software Tools for Startups, Multimedia Systems, Virutal Realities
 
 ### Skills
