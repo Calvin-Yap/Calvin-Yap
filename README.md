@@ -10,6 +10,9 @@
 - 💼 <a href="https://www.linkedin.com/in/calvin-yap-b83275193/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
+<img align="left" alt="githubstatsCalvin" src="https://github-readme-stats.vercel.app/api?username=calvin-yap&show_icons=true&theme=synthwave"/>
+
+
 
 
 
