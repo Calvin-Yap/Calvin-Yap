@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Calvin 👋</h1>
-<h3 align="left">A 4th year Ryerson University Computer Science student</h3>
+<h3 align="left">A Software Developer, Studying at <span style="background-color: #004c9b;box-shadow: 8px -8px 0px 0px #ffdc00;">Ryerson University</span></h3>
 
 - 👨‍💻 <a href="https://calvinyap.com/" target="blank" rel="noopener noreferrer"> Portfolio</a>
 
