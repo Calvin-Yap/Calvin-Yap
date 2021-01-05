@@ -9,7 +9,7 @@
 
 ### What I'm up to
 - 🌱 I'm currently learning Swift, by participating in <a href="https://www.hackingwithswift.com/100/swiftui " target="_blank" rel="noopener noreferrer">100 Days of Swift</a> 
-- 🎒 Upcoming courses: Software Tools for Startups, Multimedia Systems, Virutal Realities
+- 🎒 Upcoming courses: Software Tools for Startups, Multimedia Systems, Virtual Realities
 
 ### Skills
 Languages:
