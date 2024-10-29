@@ -1,6 +1,6 @@
 # Hi there, I'm Calvin 👋
 ### Computer Science Graduate from Ryerson University 🐏
-**🎯 Currently Looking working at Paymentus as a Implemntation Engineer**
+**🎯 Currently working at Paymentus as a Implementation Engineer**
 - 👨‍💻 <a href="https://calvinyap.com/" target="blank" rel="noopener noreferrer"> Portfolio</a>
 - 📝 <a href="https://calvinyap.com/assets/Yap,Calvin-Resume2022.pdf" target="blank" rel="noopener noreferrer">Resume- outdated</a>
 - 📫 <a href="mailto:calvin.gh.yap@rgmail.com" >Email</a>
